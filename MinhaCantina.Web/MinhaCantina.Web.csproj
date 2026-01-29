@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\imagens\3716-coca-cola-lata-350.jpg" />
+  </ItemGroup>
+
 </Project>
