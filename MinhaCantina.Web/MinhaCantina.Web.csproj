@@ -10,4 +10,8 @@
     <Content Remove="wwwroot\imagens\3716-coca-cola-lata-350.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Source\Layout\componentes\" />
+  </ItemGroup>
+
 </Project>
